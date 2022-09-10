@@ -7,6 +7,9 @@ Will need to update regularly for future use cases.
 ## 2) Activate Tensorflow
 * In Anaconda Prompt: conda activate tensorflow
 ## 3) Use cd command to find working directory
+* cd name - Goes to 'name' that is in current working directory. 
+* cd\ - Goes all the way back in the directory.
+* cd.. - Goes back one folder. 
 ## 4) Launch Jupyter Notebook
 * In Anaconda Prompt: jupyter notebook
 * This will open up the Jupyter Notebook with an active Tensorflow environment to put work into. 
